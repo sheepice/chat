@@ -1,24 +1,22 @@
-# myspace
+# Myspace
 
-## Project setup
-```
-npm install
-```
+## 网站地址：
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[简易聊天空间](https://app4515.acapp.acwing.com.cn/myspace/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 实现功能如下
+
+### 前端用户界面：
+
+- 用户注册和登录界面
+- 好友列表界面
+
+
+
+### 后端API：
+
+- 用户注册，登录功能
+- 用户发帖，删帖功能
+- 用户获取好友列表
